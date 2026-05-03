@@ -1,5 +1,7 @@
 # PandasAI 🐼
 
+> Fork note: this is Sahil's fork of PandasAI for exploration and reference. The upstream project is maintained by Sinaptik AI; check the upstream repository for the latest releases, issues, and documentation.
+
 [![Release](https://img.shields.io/pypi/v/pandasai?label=Release&style=flat-square)](https://pypi.org/project/pandasai/)
 [![CI](https://github.com/gventuri/pandas-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/gventuri/pandas-ai/actions/workflows/ci.yml/badge.svg)
 [![CD](https://github.com/gventuri/pandas-ai/actions/workflows/cd.yml/badge.svg)](https://github.com/gventuri/pandas-ai/actions/workflows/cd.yml/badge.svg)
